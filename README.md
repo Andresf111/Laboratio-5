@@ -23,4 +23,18 @@ Definir como se le conoce a la fuente de voltaje y la resistencia en serie dentr
 
 ![1](https://user-images.githubusercontent.com/105386939/177672469-be2f77da-f4a0-427e-b1e9-3f794fa365cb.jpg)
 
-![2](https://user-images.githubusercontent.com/105386939/177672483-933e3b94-17e2-434d-bd31-4b62664c40c9.jpg)
+![image](https://user-images.githubusercontent.com/105386939/177680948-8ba88341-a50f-4eaf-841c-c39656cbab18.png)
+
+
+
+Calculo de errores de las mediciones
+
+![image](https://user-images.githubusercontent.com/105386939/177673441-cec52d44-13fb-4a5d-aa82-531dbcfadada.png)
+
+![image](https://user-images.githubusercontent.com/105386939/177681666-2dfafcd2-c1c7-4c9d-a10f-89453b092055.png)
+
+
+VIDEO
+
+https://youtu.be/T1Lu80-iN34
+
