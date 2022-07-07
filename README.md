@@ -38,3 +38,19 @@ VIDEO
 
 https://youtu.be/T1Lu80-iN34
 
+6.CONCLUSIONES
+
+Con respecto al Teorema de Thévenin si tiene que este establece que al existir dos terminales, en esta caso A y B, dentro de la estructura de un circuito eléctrico lineal, el mismo puede ser sustituido por un circuito equivalente mas simple. Es importante mencionar que esto se puede realizar debido a que, la teoría expresa que a través de la resistencia tranformada la corriente aun seguira circulando por el circuito.
+
+Dentro del Teorema de Thévenin a la fuente de voltaje se la conoce como el "voltaje de Thévenin", el (VTH) es el voltaje en circuito abierto entre las terminales del circuito para el cual se requiere el equivalente. Por otro lado, la resistencia en serie se le conoce como "resistencia de Thévenin", la (RTH) es la resistencia equivalente vista de la terminal del circuito, cabe mencionar que esto se realiza con respecto al equivalente de Thévenin y con las fuentes de alimentación en cero.
+
+7.BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+
+
+
+
+
+
